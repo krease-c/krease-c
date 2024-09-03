@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Krystal
 - 👀 I’m interested in cybersecurity 
 - 🌱 I’m currently learning skills on ethical hacking and pentesting
-- 📫 How to reach me Linked in https://www.linkedin.com/in/vanessa-krystal-80669a29b/
+- 📫 How to reach me @Linked  https://www.linkedin.com/in/vanessa-krystal-80669a29b/
 
 
 <!---
